@@ -2,7 +2,7 @@
   "name": "finalgestionpaquetes",
   "version": "1.0.0",
   "description": "Trabajo final para maedWeb gestion paquetes",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
