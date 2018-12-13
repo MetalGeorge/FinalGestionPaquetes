@@ -1,4 +1,11 @@
-mi-boton, mi-boton-2 {
-  padding: 10px;
-  border: 5px solid green;
-}
+mi-boton {
+	border: none;
+	background: #3a7999;
+	color: #f2f2f2;
+	padding: 10px;
+	font-size: 18px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	}
