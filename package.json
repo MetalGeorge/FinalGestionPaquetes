@@ -1,6 +1,6 @@
 {
   "name": "finalgestionpaquetes",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Trabajo final para maedWeb gestion paquetes",
   "main": "./lib/index.js",
   "scripts": {
