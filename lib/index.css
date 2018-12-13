@@ -1,4 +1,4 @@
-mi-boton {
+mi-boton:before {
 	border: none;
 	background: #3a7999;
 	color: #f2f2f2;
@@ -8,4 +8,8 @@ mi-boton {
 	position: relative;
 	box-sizing: border-box;
 	transition: all 500ms ease;
+	cursor: pointer;
 	}
+mi-boton:hover:before {
+width: 100%;
+}
